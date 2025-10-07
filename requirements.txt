@@ -1,0 +1,14 @@
+# Core data tools
+pandas
+numpy
+
+# Machine learning
+scikit-learn
+xgboost
+joblib
+
+# Visualization
+matplotlib
+
+# Optional (for notebook exploration)
+jupyterlab
